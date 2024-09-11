@@ -8,7 +8,8 @@ module.exports = {
     extend: {
       fontFamily : {
         angsana : ["Angsana New"],
-        itim : ["Itim"] 
+        itim : ["Itim"] ,
+        kanit : ["Kanit"]
       }
     },
   },
